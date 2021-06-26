@@ -1,5 +1,8 @@
 # PortfolioClient
 
+![screenshot](https://user-images.githubusercontent.com/7220167/123508222-b240ac80-d676-11eb-8243-033dab330920.png)
+
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.12.
 
 ## Development server
